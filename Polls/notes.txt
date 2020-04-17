@@ -1,0 +1,15 @@
+0 alex
+1 brad
+2 charlie
+3 david
+4 eric
+length = 5
+
+"eric"
+
+david's poll
+-user_id = 3
+
+Find me all of david's polls
+-all of the polls are sorted by user_id
+-find all the polls with user_id of 3
